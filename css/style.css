@@ -1,0 +1,112 @@
+body {
+	background-color: #000;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+.logo {
+padding-top: 52px;
+font-family: Mont Demo;
+font-weight: 900;
+font-size: 24px;
+line-height: 103.8%;
+text-align: center;
+color: #FFFFFF;
+}
+
+.etolesha {
+	padding-top: 12vh;
+	
+	padding-left: 10%; 
+	padding-right:10%;
+	color: #fff;
+	font-family: Mont Demo;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 24vw;
+}
+
+#second {
+	padding-top: 0px;
+}
+
+h3 {
+font-family: Mont Demo;
+font-weight: 900;
+font-size: 24px;
+color: #333333;
+text-align: center;
+
+}
+
+
+#goldenMe {
+	padding-top: 0px;
+	color: #FFCB5C;
+	padding-left: 61%;
+}
+
+#golden{
+	color: #FFCB5C;
+}
+
+
+#orange {
+	color:  #FF6B12;
+}
+
+#brown {
+	color: #333333;
+}
+
+}
+.line {
+	margin-top: 0.5vh;
+	margin-left: 24%;
+	text-align: center;
+	width: 52vw;
+	height: 0.5vw;
+	background-color: #FFCB5C;
+}
+
+.WoodBox {
+	margin-top: 13vh;
+	height: 150vw;
+	background: #191414;
+	border-radius: 49px 49px 0px 0px;
+	}
+
+.title {
+	text-align: center;
+	padding-top: 7vh;
+}
+
+h4 {
+	text-align: center;
+	font-family: MegaFon Graphik LC Web;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 4.5vw;
+	text-align: center;
+	color: #fff;
+	padding-bottom: 3vw;
+}
+
+.accountNumberFirst{
+	padding-top: 18vw;
+}
+.accountNumber {
+	padding-top: 14vw;
+	padding-bottom: 0vw;
+}
+
+.WhiteBox {
+	padding-top: 10vw;
+	margin-top: 12vh;
+	height: 100vw;
+	background: #FBFBFC;
+	border-radius: 49px 49px 0px 0px;
+
+}
