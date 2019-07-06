@@ -17,7 +17,7 @@ color: #FFFFFF;
 }
 
 .etolesha {
-	padding-top: 12vh;
+	padding-top: 20vh;
 	
 	padding-left: 10%; 
 	padding-right:10%;
@@ -80,7 +80,7 @@ text-align: center;
 
 .title {
 	text-align: center;
-	padding-top: 7vh;
+	padding-top: 5vh;
 }
 
 h4 {
@@ -91,14 +91,14 @@ h4 {
 	font-size: 4.5vw;
 	text-align: center;
 	color: #fff;
-	padding-bottom: 3vw;
+	padding-bottom: 2vw;
 }
 
 .accountNumberFirst{
-	padding-top: 18vw;
+	padding-top: 12vw;
 }
 .accountNumber {
-	padding-top: 14vw;
+	padding-top: 10vw;
 	padding-bottom: 0vw;
 }
 
